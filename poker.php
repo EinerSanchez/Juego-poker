@@ -79,7 +79,8 @@ while (true) {
         evaluarMano($cartas);
         break;
       case 2:
-        echo "Chauuu";
+        echo "Saliendo...\n";
+        echo "Exito al salir";
         exit;
         default: 
         echo "¡opcion invalida!";
